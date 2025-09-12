@@ -96,6 +96,7 @@ El modelo de optimización fue configurado para **maximizar el Sharpe Ratio**, b
 
 # Vídeo 
 
+https://drive.google.com/file/d/1DQy2Lm32GF1y9SFl1cRbZrwSU_hrafMV/view?usp=sharing
 
 ---
 
